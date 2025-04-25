@@ -17,7 +17,7 @@ This data is a `.csv` file from the "nytimes covid-19-data colleges" github page
 
 ## Getting Started
 To begin following this repository, first click the "Documentation" folder and then click on the "Creating a Subset.ipynb" file. This file will open up a document that will direct you on how to use **Python3** in **Google Colabs** that will allow you to download and import the data you need. Follow along to create your own subset of the data located in this repository.
-> If you want to be able to describe your own process in creating data, or use text cells in general, I recommend using [markdown](https://markdownlivepreview.com/). It will provide you with a basic, elementary level guide on how to use different codes in markdown and implement them in your text cells.
+> If you want to be able to describe your own process in creating data, or use text cells in general, I recommend using [markdown](https://markdownlivepreview.com/). It will provide you with a basic, elementary level guide on how to use different codes in markdown for your text cells.
 
 ## Need Help?
 * If you are confused on how Github works or what Github is in general, you can use this [link](https://docs.github.com/en/get-started/start-your-journey/about-github-and-git) that will provide you with a in-detail description on what Github is, how to use it, creating an account, and more!
