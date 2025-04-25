@@ -29,3 +29,4 @@ To begin following this repository, first click the "Documentation" folder and t
 
 ## Visualization
 
+![alt text](![total_cases_heatmap](https://github.com/user-attachments/assets/228815ba-79b8-446c-8183-8982e9a05498)
