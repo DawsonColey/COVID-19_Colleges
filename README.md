@@ -28,5 +28,8 @@ To begin following this repository, first click the "Documentation" folder and t
 * This repository is being contributed to and maintained by Dawson Coley. A student at the University of North Carolina at Chapel Hill. The raw data from the original source is no longer being updated, but this repository is being kept up to date by Dawson Coley.
 
 ## Visualization
-The following heatmap chart is visualization that can be created from the subset of data provided in this repository. The visualization expresses the data in the subset that covers the total amount of cases reported on college campuses in North Carolina.
+The following heatmap chart is visualization that can be created from the subset of data provided in this repository. The visualization expresses the data in the subset that covers the total amount of COVID-19 cases reported on college campuses in North Carolina.
 ![total_cases_heatmap](https://github.com/user-attachments/assets/228815ba-79b8-446c-8183-8982e9a05498)
+
+The following heatmap chart is a second visualization created from the subset of data provided in the repository. This visualization represents the data in the subset of the number of COVID-19 cases reported in only the year 2021 on college campuses in North Carolina.
+![cases_2021_heatmap](https://github.com/user-attachments/assets/3c3e70ce-859a-4824-8075-84cfa29727b7)
