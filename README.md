@@ -8,7 +8,7 @@ This repository contains data on case numbers and geographical locations of COVI
 
 ## What is this Repository/Data Used for?
 * This dataset may be used for those who seek information on the amount of COVID-19 cases found on both public and private university campuses in the United States between the years 2020-2021.
-*  The dataset contains information on the total cases reported in each respected campus during this timeframe as well as data containing only the number of cases reported during the year 2021 which could be used for comparison or analysis.
+*  The dataset contains information on the total cases reported in each respected campus during this timeframe. It also holds data containing only the number of cases reported during the year 2021 which could be used for comparison or analysis.
 *   Individuals could use this data to conduct research on what areas or regions in the United States or North Carolina are most and/or least prone to be affected by COVID-19.
 
 ## Where is this Data From?
