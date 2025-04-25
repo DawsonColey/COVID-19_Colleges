@@ -28,5 +28,5 @@ To begin following this repository, first click the "Documentation" folder and t
 * This repository is being contributed to and maintained by Dawson Coley. A student at the University of North Carolina at Chapel Hill. The raw data from the original source is no longer being updated, but this repository is being kept up to date by Dawson Coley.
 
 ## Visualization
-
-![alt text](![total_cases_heatmap](https://github.com/user-attachments/assets/228815ba-79b8-446c-8183-8982e9a05498)
+The following heatmap chart is visualization that can be created from the subset of data provided in this repository. The visualization expresses the data in the subset that covers the total amount of cases reported on college campuses in North Carolina.
+![total_cases_heatmap](https://github.com/user-attachments/assets/228815ba-79b8-446c-8183-8982e9a05498)
