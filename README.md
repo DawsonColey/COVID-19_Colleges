@@ -33,3 +33,7 @@ The following **heatmap chart** is visualization that can be created from the **
 
 The following **heatmap chart** is a second visualization created from the **subset** of data provided in the repository. This visualization represents the data in the subset of the number of **COVID-19 cases reported in only the year 2021** on college campuses in **North Carolina**.
 ![cases_2021_heatmap](https://github.com/user-attachments/assets/3c3e70ce-859a-4824-8075-84cfa29727b7)
+
+## Extra Information
+This repository was created for Professor Gotzler's English 105 class. This repository requires no kind of licensing and is open to the public for viewing.
+**Enjoy!**
